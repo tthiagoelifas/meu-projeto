@@ -13,5 +13,5 @@ Projeto de um site para divulgar um serviço de decoração com links e contato!
 
 ## Screenshots
 
-![App Screenshot](./Imagens/Screenshot_5.png)
+![preview](./Imagens/Screenshot_5.png)
 
